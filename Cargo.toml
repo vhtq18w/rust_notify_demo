@@ -1,0 +1,14 @@
+[package]
+name = "rust_notify_demo"
+version = "0.1.0"
+authors = ["Burgess Chang <brs@sdf.org>"]
+
+[dependencies]
+docopt = "1.0"
+notify = "^2.4.1"
+libc = "^0.2.8"
+rand = "^0.3.11"
+serde = "1.0"
+serde_derive = "1.0"
+toml = "0.4"
+
